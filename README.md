@@ -10,6 +10,7 @@ A few useful links I have found from playing CTFs (Both learning resources and t
 - Factorization, discrete logarithm, continued fractions and other cool stuff. Sometimes finds factors that FactorDB misses: https://www.alpertron.com.ar/CALTORS.HTM
 - Weird ciphers and encodings: https://www.dcode.fr/en
 - Collection of "old" ciphers: http://rumkin.com/tools/cipher/
+- Substitution solver (also has some other solvers): https://www.guballa.de/substitution-solver
 
 <br>
 
