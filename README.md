@@ -59,6 +59,7 @@ A few useful links I have found from playing CTFs (Both learning resources and t
 - Morsecode:
     - "Morse to text" and "text to morse": https://morsecode.world/international/translator.html
     - Wav file decoder: https://morsecode.world/international/decoder/audio-decoder-adaptive.html
+- Bruteforce encodings (Base85, Base64, Base16, etc): https://github.com/mufeedvh/basecrack
 
 <br>
 
