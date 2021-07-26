@@ -11,6 +11,10 @@ A few useful links I have found from playing CTFs (Both learning resources and t
 - Weird ciphers and encodings: https://www.dcode.fr/en
 - Collection of "old" ciphers: http://rumkin.com/tools/cipher/
 - Substitution solver (also has some other solvers): https://www.guballa.de/substitution-solver
+- Hash lookup:
+    - https://md5decrypt.net/en/
+    - https://crackstation.net/
+    - https://hashkiller.io/listmanager
 
 <br>
 
