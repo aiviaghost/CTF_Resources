@@ -49,6 +49,7 @@ A few useful links I have found from playing CTFs (Both learning resources and t
 ## Pwn
 - Automatic ROP chains: https://github.com/angr/angrop
 - Find gadgets for ROP chains: https://github.com/JonathanSalwan/ROPgadget
+- Find libc version from function adresses: https://libc.blukat.me/
 
 <br>
 
