@@ -9,7 +9,7 @@ A few useful links I have found from playing CTFs (Both learning resources and t
 - Factorization database with a nice (mostly working) python API: http://factordb.com/
 - Factorization, discrete logarithm, continued fractions and other cool stuff. Sometimes finds factors that FactorDB misses: https://www.alpertron.com.ar/CALTORS.HTM
 - Weird ciphers and encodings: https://www.dcode.fr/en
-- Collection of "old" ciphers: http://rumkin.com/tools/cipher/
+- Collection of "classical" ciphers: http://rumkin.com/tools/cipher/
 - Substitution solver (also has some other solvers): https://www.guballa.de/substitution-solver
 - Hash lookup:
     - https://md5decrypt.net/en/
