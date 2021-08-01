@@ -20,6 +20,7 @@ A few useful links I have found from playing CTFs (Both learning resources and t
 
 ## Web
 - Collection of web exploits (Flask, SQL, etc): https://github.com/swisskyrepo/PayloadsAllTheThings
+- Another nice collection of web exploits (actually more than just web but I haven't looked at that part of the site too much): https://book.hacktricks.xyz/
 - Endpoints to inspect requests:
     - https://requestbin.com/
     - https://requestcatcher.com/
