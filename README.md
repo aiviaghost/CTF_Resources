@@ -24,6 +24,7 @@ A few useful links I have found from playing CTFs (Both learning resources and t
 - Endpoints to inspect requests:
     - https://requestbin.com/
     - https://requestcatcher.com/
+    - Create tunnel to localhost, nice to quickly set up a server: https://ngrok.com/
 - Automatic SQL testing: https://github.com/sqlmapproject/sqlmap
 - URL bruteforce:
     - https://github.com/OJ/gobuster
