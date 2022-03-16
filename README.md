@@ -41,6 +41,7 @@ A few useful links I have found from playing CTFs (Both learning resources and t
     - https://cloud.binary.ninja/
 - Python bytecode translator: https://pypi.org/project/uncompyle6/
 - Python pickle opcodes: https://github.com/python/cpython/blob/main/Lib/pickletools.py
+- Java decompiler for ".class"-files: http://java-decompiler.github.io/
 - Blockchain:
     - Etherium / Solidity:
         - https://remix.ethereum.org
