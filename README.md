@@ -30,6 +30,7 @@ A few useful links I have found from playing CTFs (Both learning resources and t
     - https://github.com/OJ/gobuster
     - Dirbuster?
     - Decent online version: https://pentest-tools.com/website-vulnerability-scanning/discover-hidden-directories-and-files
+- Get files from (d)vcs folder (example: exposed .git or .bzr folder): https://github.com/kost/dvcs-ripper (haven't tested it myself yet)
 
 <br>
 
