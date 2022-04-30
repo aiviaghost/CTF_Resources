@@ -94,6 +94,7 @@ A few useful links I have found from playing CTFs (Both learning resources and t
 - Memory dump:
     - Extract memory (requires python 2): https://github.com/volatilityfoundation/volatility
     - View raw memory in GIMP (https://www.gimp.org/) like in https://ctftime.org/writeup/23198
+- Statistical attacks on WEP and wordlist brute force for WPA PSK: https://github.com/aircrack-ng/aircrack-ng
 
 <br>
 
