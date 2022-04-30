@@ -40,6 +40,7 @@ A few useful links I have found from playing CTFs (Both learning resources and t
 - Free decompilers / disassemblers:
     - https://ghidra-sre.org/
     - https://cloud.binary.ninja/
+    - https://cutter.re/
 - Python bytecode translator: https://pypi.org/project/uncompyle6/
 - Python pickle opcodes: https://github.com/python/cpython/blob/main/Lib/pickletools.py
 - Java decompiler for ".class"-files: http://java-decompiler.github.io/
