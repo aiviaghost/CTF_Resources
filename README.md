@@ -57,6 +57,7 @@ A few useful links I have found from playing CTFs (Both learning resources and t
 - Automatic ROP chains: https://github.com/angr/angrop
 - Find gadgets for ROP chains: https://github.com/JonathanSalwan/ROPgadget
 - Find libc version from function adresses: https://libc.blukat.me/
+- Find one gadget for RCE (uses symbolic calculations internally for constraint verification): https://github.com/david942j/one_gadget
 
 <br>
 
